@@ -1,0 +1,126 @@
+2021-12-30T03:48:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:45+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:46+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T03:48:47+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
+2021-12-30T08:10:49+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:10:55+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:11:00+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:11:04+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:11:09+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:11:20+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:11:32+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:11:43+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T08:13:57+00:00 CRITICAL Cannot declare class WC_Gateway_eSewa, because the name is already in use in C:\xampp\htdocs\Jutta\wp-content\plugins\woocommerce-esewa\includes\class-wc-gateway-esewa.php on line 17
+
+2021-12-30T10:42:56+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php:29
+Stack trace:
+#0 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php(39): big_store_cart_total_item()
+#1 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): big_store_menu_cart_view('')
+#2 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\header-function.php(765): do_action('open_cart_count')
+#5 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(303): bigstore_mobile_navbar('')
+#6 C:\xampp\htdocs\Jutta\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 C:\xampp\htdocs\Jutta\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#8 C:\xampp\htdocs\Jutta\wp-includes\general-template.php(3031): do_action('wp_footer in C:\xampp\htdocs\Jutta\wp-content\themes\big-store\inc\woocommerce\woo-function.php on line 29
+
